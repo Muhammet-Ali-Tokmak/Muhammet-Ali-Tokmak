@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **Muhammet-Ali-Tokmak/Muhammet-Ali-Tokmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👋 Hello, I'm Muhammet Ali Tokmak
+
+🎓 Graduate of Computer Programming at Istanbul Medipol University.  
+📱 Currently focused on Android app development using Kotlin.  
+🧠 Passionate about learning, solving problems, and building things that matter.  
+🌐 Check out my [LinkedIn](https://linkedin.com/in/muhammet-ali-tokmak-4a920b370/), and stay tuned for more projects!
+
+---
+
+🚀 I'm currently building Android apps and improving my skills in:
+- Kotlin, Android SDK
+- UI/UX Design principles
+- Firebase, REST APIs
