@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🎓 Graduate of Computer Programming at Istanbul Medipol University.  
 📱 Currently focused on Android app development using Kotlin.  
 🧠 Passionate about learning, solving problems, and building things that matter.  
-🌐 Check out my [LinkedIn](https://linkedin.com/in/muhammet-ali-tokmak-4a920b370/), and stay tuned for more projects!
+🌐 Check out my [LinkedIn](https://linkedin.com/in/muhammet-ali-tokmak-4a920b370/) and stay tuned for future projects.
 
 ---
 
