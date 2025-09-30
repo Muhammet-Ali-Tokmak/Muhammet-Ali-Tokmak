@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 ## 👋 Hello, I'm Muhammet Ali Tokmak
 
 🎓 Graduate of Computer Programming at Istanbul Medipol University.  
-📱 Currently focused on Android app development using Kotlin.  
-🧠 Passionate about learning, solving problems, and building things that matter.  
-🌐 Check out my [LinkedIn](https://linkedin.com/in/muhammet-ali-tokmak-4a920b370/), and stay tuned for future projects.
+💻 Junior Software Developer with experience in Kotlin (Android) and an eagerness to learn Go for backend development.  
+🧠 Passionate about continuous learning, problem solving, and building useful applications.  
+🌐 Connect with me on [LinkedIn](https://linkedin.com/in/muhammet-ali-tokmak-4a920b370/).
 
 ---
 
-🚀 I'm currently building Android apps and improving my skills in:
+🚀 Currently exploring and improving my skills in:
+- Go (beginner, actively learning)
 - Kotlin, Android SDK
-- UI/UX Design principles
-- Firebase, REST APIs
+- SQL, Git, REST APIs
+- UI/UX design principles
