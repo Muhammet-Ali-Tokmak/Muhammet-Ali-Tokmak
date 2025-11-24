@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 🎓 Graduate of Computer Programming at Istanbul Medipol University.  
 💻 Junior Software Developer with experience in Kotlin (Android) and an eagerness to learn Go for backend development.  
 🧠 Passionate about continuous learning, problem solving, and building useful applications.  
-🌐 Connect with me on [LinkedIn](https://linkedin.com/in/muhammet-ali-tokmak-4a920b370/).
 
 ---
 
