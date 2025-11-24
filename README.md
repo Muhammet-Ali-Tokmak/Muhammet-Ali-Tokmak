@@ -16,15 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hello, I'm Muhammet Ali Tokmak
-
-🎓 Graduate of Computer Programming at Istanbul Medipol University.  
-💻 Junior Software Developer with experience in Kotlin (Android) and an eagerness to learn Go for backend development.  
-🧠 Passionate about continuous learning, problem solving, and building useful applications.  
-
----
-
-🚀 Currently exploring and improving my skills in:
-- Go (beginner, actively learning)
-- Kotlin, Android SDK
-- SQL, Git, REST APIs
-- UI/UX design principles
